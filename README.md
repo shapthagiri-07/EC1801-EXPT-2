@@ -125,26 +125,6 @@ Output
 # OUTPUT
 <img width="1600" height="848" alt="dlcd exp 2" src="https://github.com/user-attachments/assets/edab42de-0056-4885-8b1e-b26454691a5f" />
 
-
-
- 
-# Viva-Voce Questions
-
-•	What is a logic gate?
-
-•	What are the basic logic gates in digital electronics?
-
-•	What is the Boolean expression for an AND gate? An OR gate? A NOT gate?
-
-•	Why is the NOT gate also called an inverter?
-
-•	What is a universal gate, and how can NAND/NOR realize AND, OR, and NOT?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated?
-
-•	What is the purpose of ./simv?
 •	What is the purpose of DVE?
 •	What is the difference between simulation and synthesis?
 •	What is the difference between $dumpfile and $dumpvars?
